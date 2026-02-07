@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "choco-astro": "0.3.2",
-    "choco-playwright": "0.1.0",
+    "choco-playwright": "0.2.1",
     "choco-theme": "1.3.0"
   }
 }
